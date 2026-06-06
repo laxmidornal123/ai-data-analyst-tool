@@ -47,12 +47,6 @@ data_analyst_tool/
 
 └── README.md
 
-## Installation
-
-### Clone Repository
-
-git clone https://github.com/yourusername/ai-data-analyst-tool.git
-
 ### Navigate to Project Folder
 
 cd ai-data-analyst-tool
